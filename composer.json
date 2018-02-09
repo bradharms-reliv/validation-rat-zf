@@ -24,6 +24,7 @@
   "require": {
     "php": ">=7",
     "psr/container": "^1",
+    "reliv/validation-rat": "^0",
     "reliv/zf-config-factories": "^4",
     "zendframework/zend-validator": "2.*"
   },
